@@ -1,5 +1,8 @@
-# WifiRover
+# WifiRover WORK IN PROGRESS
 A small, motorized rover platform designed for experimentation with robotics, motor control, and embedded systems. Built for learning and prototyping, this rover combines electronics, mechanical components, and software to demonstrate basic autonomous and remote-controlled functionality.
+
+![Alt text](Images/IMG20260202174512.jpg)
+
 
 ## Parts List
 - 2 x N20 gearmotor drive system (6V, 300 RPM) with 43 mm wheels
